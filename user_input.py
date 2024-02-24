@@ -1,4 +1,4 @@
-name = input("What is your name? ")
+Mname = input("What is your name? ")
 age = input("How old are you? ")
 location = input("Where are you from? ")
 
